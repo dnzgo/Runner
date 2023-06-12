@@ -25,6 +25,6 @@ public class CameraFollowPlayer : MonoBehaviour
 
     void Update()
     {
-        
+       
     }
 }
